@@ -1,4 +1,4 @@
-You need an Arduino running (AGirs)[https://github.com/bengtmartensson/AGirs/], a Mega2560 board is highly recommended but it can be done using an Uno board if you only use the transmit module.
+You need an Arduino running [AGirs](https://github.com/bengtmartensson/AGirs/), a Mega2560 board is highly recommended but it can be done using an Uno board if you only use the transmit module.
 
 Right now it just contains the remote for the JVC TH-M303 DVD/HomeTheater kit, however the infrared codes and buttons are easy to edit in Android Studio to suit your needs.
 
